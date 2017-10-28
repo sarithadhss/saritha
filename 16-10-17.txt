@@ -1,0 +1,13 @@
+﻿Match the plants with the things they provide.
+{
+=sugarcane->sugar
+=cocoa->chocolate
+=Acacia->gum
+=teak->timber
+=rubber tree->rubber
+}
+
+Fill in the blanks
+{
+=an owl live in a _____
+}
